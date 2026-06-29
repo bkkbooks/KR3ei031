@@ -1,0 +1,1046 @@
+canonical_identifier: bkk:krp/KR3ei031/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei031/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 女科百問
+  identifiers:
+    krp: KR3ei031
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04360
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei031.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ei031_001-jc.yaml, hash: 'sha256:c98836783c7c514782360aad2c8cb4851f1f7f21dae479ea846dd45a54b0d8cb'}
+  - {seq: 3, filename: KR3ei031_003-jc.yaml, hash: 'sha256:88f810492789dbf2002d0743f8adbb1881d42edc25b0ed3e1a754b12d26bf871'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ei031_001-jc.markers.yaml, hash: 'sha256:c7296c1c7690a5e54fa0fd2400b0bc3c5873705f910443176ee2eb5427a9df27'}
+  - {seq: 3, role: markers, filename: assets/KR3ei031_003-jc.markers.yaml, hash: 'sha256:d6e8f72720bf242e70bbe4a6ed78a1d0ceaa9d1ea7b174b427db31dc1c663cfc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 19321
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 350
+  label: 第一問精血以分男女之本源
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d3
+    span:
+    - body
+    - 350
+    - 506
+  label: 第二問古法男子三十而娶女子二十而嫁
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d4
+    span:
+    - body
+    - 506
+    - 725
+  label: 第三問婦人感病倍於男子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d5
+    span:
+    - body
+    - 725
+    - 872
+  label: 第四問何以謂之天癸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d6
+    span:
+    - body
+    - 872
+    - 984
+  label: 第五問何以謂之經候
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d7
+    span:
+    - body
+    - 984
+    - 1875
+  label: 第六問經候或前或後多寡不定
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d8
+    span:
+    - body
+    - 1875
+    - 2113
+  label: 第七問月水依時來不快利
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d9
+    span:
+    - body
+    - 2113
+    - 2748
+  label: 第八問經水欲行先身體痛或腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d10
+    span:
+    - body
+    - 2748
+    - 3281
+  label: 第九問月水閉絕不通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d11
+    span:
+    - body
+    - 3281
+    - 4126
+  label: 第十問虛勞之病何以得之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d12
+    span:
+    - body
+    - 4126
+    - 4592
+  label: 第十一問婦人卦數已盡經水當止而復行
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d13
+    span:
+    - body
+    - 4592
+    - 4878
+  label: 第十二問何謂避年
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d14
+    span:
+    - body
+    - 4878
+    - 5139
+  label: 第十三問室女經候當行不行
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d15
+    span:
+    - body
+    - 5139
+    - 5509
+  label: 第十四問未出閨門女有三病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d16
+    span:
+    - body
+    - 5509
+    - 6017
+  label: 第十五問婦人多驚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d17
+    span:
+    - body
+    - 6017
+    - 6455
+  label: 第十六問婦人多因風冷而生諸疾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d18
+    span:
+    - body
+    - 6455
+    - 7017
+  label: 第十七問婦人多頭眩而冒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d19
+    span:
+    - body
+    - 7017
+    - 7415
+  label: 第十八問身體疼痛流注不定
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d20
+    span:
+    - body
+    - 7415
+    - 7712
+  label: 第十九問朝食暮吐
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d21
+    span:
+    - body
+    - 7712
+    - 8130
+  label: 第二十問婦人之病多因氣生
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d22
+    span:
+    - body
+    - 8130
+    - 8447
+  label: 第二十一問猝然而死少間復甦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d23
+    span:
+    - body
+    - 8447
+    - 8743
+  label: 第二十二問病非瘧之邪四時多病寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d24
+    span:
+    - body
+    - 8743
+    - 9011
+  label: 第二十三問因咳嗽經候不行
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d25
+    span:
+    - body
+    - 9011
+    - 9449
+  label: 第二十四問咳嗽有紅痰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d26
+    span:
+    - body
+    - 9449
+    - 9814
+  label: 第二十五問吐血衄血齒衄舌上出血汗血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d27
+    span:
+    - body
+    - 9814
+    - 10084
+  label: 第二十六問婦人偏喜酸物或嗜冷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d28
+    span:
+    - body
+    - 10084
+    - 10177
+  label: 第二十七問婦人喜少怒多悲泣不止
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d29
+    span:
+    - body
+    - 10177
+    - 10481
+  label: 第二十八問咽中狀如梅核或如炙肉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d30
+    span:
+    - body
+    - 10481
+    - 10969
+  label: 第二十九問婦人足十指痛如油煎覆之則熱痛風吹則冷痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d31
+    span:
+    - body
+    - 10969
+    - 11240
+  label: 第三十問婦人少年發少
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d32
+    span:
+    - body
+    - 11240
+    - 11570
+  label: 第三十一問四肢如故但腹脹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d33
+    span:
+    - body
+    - 11570
+    - 11897
+  label: 第三十二問病有血分有水分何以別之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d34
+    span:
+    - body
+    - 11897
+    - 12455
+  label: 第三十三問心腹痛或又有小腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d35
+    span:
+    - body
+    - 12455
+    - 12756
+  label: 第三十四問下利經水反斷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d36
+    span:
+    - body
+    - 12756
+    - 13362
+  label: 第三十五問婦人晝則明瞭暮則譫語如見鬼狀
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d37
+    span:
+    - body
+    - 13362
+    - 13938
+  label: 第三十六問顛狂之病何以別之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d38
+    span:
+    - body
+    - 13938
+    - 14363
+  label: 第三十七問病有一臂痛有兩臂俱痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d39
+    span:
+    - body
+    - 14363
+    - 14765
+  label: 第三十八問婦人渴病與三消之病同異
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d40
+    span:
+    - body
+    - 14765
+    - 15025
+  label: 第三十九問腰痛如折
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d41
+    span:
+    - body
+    - 15025
+    - 15176
+  label: 第四十問婦人面多生黑皯與黑子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d42
+    span:
+    - body
+    - 15176
+    - 15579
+  label: 第四十一問身目黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d43
+    span:
+    - body
+    - 15579
+    - 15971
+  label: 第四十二問陰崩陽崩何以別之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d44
+    span:
+    - body
+    - 15971
+    - 16268
+  label: 第四十三問眠臥多汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d45
+    span:
+    - body
+    - 16268
+    - 16508
+  label: 第四十四問左脅痛如刀刺不得喘息
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d46
+    span:
+    - body
+    - 16508
+    - 17144
+  label: 第四十五問積聚之病何以別之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d47
+    span:
+    - body
+    - 17144
+    - 17443
+  label: 第四十六問身體常瘙癢
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d48
+    span:
+    - body
+    - 17443
+    - 17837
+  label: 第四十七問夜與鬼交
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d49
+    span:
+    - body
+    - 17837
+    - 18390
+  label: 第四十八問大小便不通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d50
+    span:
+    - body
+    - 18390
+    - 19123
+  label: 第四十九問帶下三十六疾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei031_jc_001-d2d51
+    span:
+    - body
+    - 19123
+    - 19321
+  label: 第五十問婦人有帶下或淋漓不斷何以別之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 21364
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 202
+  label: 第五十一問男女受形之始何以別之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d3
+    span:
+    - body
+    - 202
+    - 327
+  label: 第五十二問何以謂之有娠
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d4
+    span:
+    - body
+    - 327
+    - 875
+  label: 第五十三問何以謂之居經
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d5
+    span:
+    - body
+    - 875
+    - 1756
+  label: 第五十四問婦人居經之後心中憤悶不欲執作惡聞食氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d6
+    span:
+    - body
+    - 1756
+    - 2512
+  label: 第五十五問居經之後或復有漏下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d7
+    span:
+    - body
+    - 2512
+    - 2883
+  label: 第五十六問胎在腹中時時撞動不安
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d8
+    span:
+    - body
+    - 2883
+    - 3309
+  label: 第五十七問何謂子滿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d9
+    span:
+    - body
+    - 3309
+    - 3796
+  label: 第五十八問妊娠三月曾經墮胎至其月日復墜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d10
+    span:
+    - body
+    - 3796
+    - 4570
+  label: 第五十九問大小二便秘結不通
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d11
+    span:
+    - body
+    - 4570
+    - 5081
+  label: 第六十問妊娠傷寒與常人治法同異
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d12
+    span:
+    - body
+    - 5081
+    - 5347
+  label: 第六十一問妊娠傷寒瘥後復發熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d13
+    span:
+    - body
+    - 5347
+    - 5745
+  label: 第六十二問時氣溫病皆能損胎
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d14
+    span:
+    - body
+    - 5745
+    - 6297
+  label: 第六十三問妊娠寒熱或因暑氣有不因傷暑而得之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d15
+    span:
+    - body
+    - 6297
+    - 7045
+  label: 第六十四問下利與滯利何以別之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d16
+    span:
+    - body
+    - 7045
+    - 7343
+  label: 第六十五問喘病何以得之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d17
+    span:
+    - body
+    - 7343
+    - 7536
+  label: 第六十六問妊娠多痰者緣何而生
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d18
+    span:
+    - body
+    - 7536
+    - 8054
+  label: 第六十七問妊娠霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d19
+    span:
+    - body
+    - 8054
+    - 8323
+  label: 第六十八問何謂子煩
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d20
+    span:
+    - body
+    - 8323
+    - 8710
+  label: 第六十九問何謂子嗽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d21
+    span:
+    - body
+    - 8710
+    - 9044
+  label: 第七十問何謂胸痹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d22
+    span:
+    - body
+    - 9044
+    - 9436
+  label: 第七十一問何謂子癇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d23
+    span:
+    - body
+    - 9436
+    - 9972
+  label: 第七十二問胎痿過年不產又兩胎一死一生
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d24
+    span:
+    - body
+    - 9972
+    - 10454
+  label: 第七十三問妊娠墮胎或血出不止或血不出
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d25
+    span:
+    - body
+    - 10454
+    - 10746
+  label: 第七十四問何以謂之子淋
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d26
+    span:
+    - body
+    - 10746
+    - 11144
+  label: 第七十五問小便或有利者或有不通
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d27
+    span:
+    - body
+    - 11144
+    - 11912
+  label: 第七十六問大便或利或秘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d28
+    span:
+    - body
+    - 11912
+    - 12232
+  label: 第七十七問妊娠至八九個月兩腳俱腫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d29
+    span:
+    - body
+    - 12232
+    - 15159
+  label: 第七十八問妊娠十月將養之法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d30
+    span:
+    - body
+    - 15159
+    - 15713
+  label: 第七十九問橫生逆產
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d31
+    span:
+    - body
+    - 15713
+    - 16174
+  label: 第八十問熱疾胎死腹中
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d32
+    span:
+    - body
+    - 16174
+    - 16386
+  label: 第八十一問胎衣不下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d33
+    span:
+    - body
+    - 16386
+    - 16804
+  label: 第八十二問難生
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d34
+    span:
+    - body
+    - 16804
+    - 17061
+  label: 第八十三問產後血運
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d35
+    span:
+    - body
+    - 17061
+    - 17395
+  label: 第八十四問產後口乾痞悶
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d36
+    span:
+    - body
+    - 17395
+    - 17812
+  label: 第八十五問產後乍寒乍熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d37
+    span:
+    - body
+    - 17812
+    - 18045
+  label: 第八十六問產後四肢虛腫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d38
+    span:
+    - body
+    - 18045
+    - 18327
+  label: 第八十七問產後乍見鬼神
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d39
+    span:
+    - body
+    - 18327
+    - 18568
+  label: 第八十八問產後不語
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d40
+    span:
+    - body
+    - 18568
+    - 18837
+  label: 第八十九問產後腹痛又瀉痢
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d41
+    span:
+    - body
+    - 18837
+    - 19017
+  label: 第九十問產後遍身疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d42
+    span:
+    - body
+    - 19017
+    - 19305
+  label: 第九十一問產後大便秘澀
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d43
+    span:
+    - body
+    - 19305
+    - 19516
+  label: 第九十二問產後血崩
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d44
+    span:
+    - body
+    - 19516
+    - 19747
+  label: 第九十三問產後腹脹悶滿嘔吐不定
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d45
+    span:
+    - body
+    - 19747
+    - 19880
+  label: 第九十四問產後口鼻黑氣起及鼻衄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d46
+    span:
+    - body
+    - 19880
+    - 20076
+  label: 第九十五問產後喉中氣急喘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d47
+    span:
+    - body
+    - 20076
+    - 20318
+  label: 第九十六問產後中風
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d48
+    span:
+    - body
+    - 20318
+    - 20537
+  label: 第九十七問產後心痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d49
+    span:
+    - body
+    - 20537
+    - 20885
+  label: 第九十八問產後熱悶氣上轉為腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d50
+    span:
+    - body
+    - 20885
+    - 21092
+  label: 第九十九問產後汗出多而變痓風
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei031_jc_003-d3d51
+    span:
+    - body
+    - 21092
+    - 21364
+  label: 第一百問產後所下過多虛極生風
+  type: section
+  level: 2
+hash: sha256:56b0909e68d1dc35510bc4e8d80677eaa500e8b3c145f43919301aa7a27bd66e
