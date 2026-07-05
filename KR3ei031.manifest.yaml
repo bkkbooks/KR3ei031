@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ei031_001.yaml, hash: 'sha256:669bffc659da3926b1cec5a1e31101c65d4ff886a792b57efb14997436cc0d6f'}
-  - {seq: 3, filename: KR3ei031_003.yaml, hash: 'sha256:4d816be4d6103ce79626b2668497cb4d1f66512bb99802259d54b8dfb9c77ae6'}
+  - {seq: 1, filename: KR3ei031_001.yaml, hash: 'sha256:c98836783c7c514782360aad2c8cb4851f1f7f21dae479ea846dd45a54b0d8cb'}
+  - {seq: 3, filename: KR3ei031_003.yaml, hash: 'sha256:88f810492789dbf2002d0743f8adbb1881d42edc25b0ed3e1a754b12d26bf871'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei031_001.markers.yaml, hash: 'sha256:bfa83b173a4d7e2c1a1c1ea8eaa7806da7286098b829a223ed76a5f4636e2cbe'}
-  - {seq: 3, role: markers, filename: assets/KR3ei031_003.markers.yaml, hash: 'sha256:bd48ed76630ea6eeb486cc2c5689ed4c19f5db12811565240651975c3982b8ee'}
+  - {seq: 1, role: markers, filename: assets/KR3ei031_001.markers.yaml, hash: 'sha256:c2b47ad8f554157e7a138e483fc014d53055621fea58ae098fc43844a73f4d5b'}
+  - {seq: 3, role: markers, filename: assets/KR3ei031_003.markers.yaml, hash: 'sha256:bf3de575826663de01dc4f0d3f91120edf7066abd39a1f57b61cc687835780e8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1043,7 +1043,4 @@ table_of_contents:
   label: 第一百問產後所下過多虛極生風
   type: section
   level: 2
-hash: sha256:a22c6c48018de25e6e72a8c7c353f53ff694d2b0e9ff03e1ef5860d8bca90c77
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a130d809cffbd5c314bdc301640005b05f3eb4b54703a1494e6a9d91eed768a3
