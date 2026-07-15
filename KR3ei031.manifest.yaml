@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei031/v1
 canonical_location: https://kanripo.org/bkk/KR3ei031/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 女科百問
   identifiers:
@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ei031_001.yaml, hash: 'sha256:c98836783c7c514782360aad2c8cb4851f1f7f21dae479ea846dd45a54b0d8cb'}
-  - {seq: 3, filename: KR3ei031_003.yaml, hash: 'sha256:88f810492789dbf2002d0743f8adbb1881d42edc25b0ed3e1a754b12d26bf871'}
+  - {seq: 1, filename: KR3ei031_001.yaml, hash: 'sha256:8c4426186afe17cdf3f076754dc3cecf02232199e377b5fb71eb8aad4cd26b49'}
+  - {seq: 3, filename: KR3ei031_003.yaml, hash: 'sha256:c38000eccde3a0af2aa0edd84ac5bf2bb11000e19508935939f1bf9bac95113f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei031_001.markers.yaml, hash: 'sha256:c2b47ad8f554157e7a138e483fc014d53055621fea58ae098fc43844a73f4d5b'}
-  - {seq: 3, role: markers, filename: assets/KR3ei031_003.markers.yaml, hash: 'sha256:bf3de575826663de01dc4f0d3f91120edf7066abd39a1f57b61cc687835780e8'}
+  - {seq: 1, role: markers, filename: assets/KR3ei031_001.markers.yaml, hash: 'sha256:74de4c28e8689350eb598f6530e6d6d7f298c9537ad75fdf2a061c9b0a98e254'}
+  - {seq: 3, role: markers, filename: assets/KR3ei031_003.markers.yaml, hash: 'sha256:cb26da2fd9c1a314662bb67550f6574686436b20695e2ffecff65c349e38baf2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1043,4 +1043,7 @@ table_of_contents:
   label: 第一百問產後所下過多虛極生風
   type: section
   level: 2
-hash: sha256:a130d809cffbd5c314bdc301640005b05f3eb4b54703a1494e6a9d91eed768a3
+hash: sha256:b8405defedf18c707b29fbb0920cd3b6059bf9d7e5668264c5d32008b20a16c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
